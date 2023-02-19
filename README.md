@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<h1 align="center">Hi there, I'm <a href=" https://t.me/alakhmenev" target="_blank">Alexey</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Educator+in+TCMC+Saint-Petersburg,+Russia,+Project+Manager)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Project+Manager)
+
+<h3 align="center">Educator in TCMC Saint-Petersburg, Russia, Project Manager 🇷🇺</h3>
+
+
 <!--
 **alakhmenev/alakhmenev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
